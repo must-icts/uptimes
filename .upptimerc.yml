@@ -7,6 +7,14 @@ sites:
     url: https://www.must.ac.ug
   - name: VLE
     url: https://vle.must.ac.ug
+  - name: Library
+    url: https://elib.must.ac.ug
+  - name: IR
+    url: https://ir.must.ac.ug
+  - name: Journals
+    url: https://journals.must.ac.ug
+  - name: Uni Portal
+    url: https://systems.must.ac.ug
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
