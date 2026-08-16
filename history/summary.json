@@ -40,9 +40,9 @@
     "url": "https://elib.must.ac.ug",
     "icon": "https://icons.duckduckgo.com/ip3/elib.must.ac.ug.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2893,
     "timeMonth": 2858,
     "timeYear": 2858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   },
   {
     "name": "IR",
