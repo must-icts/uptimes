@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1506,
-    "timeDay": 1815,
-    "timeWeek": 1507,
+    "timeDay": 1481,
+    "timeWeek": 1503,
     "timeMonth": 1433,
     "timeYear": 1506,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.75%",
-    "time": 1902,
-    "timeDay": 1699,
-    "timeWeek": 1809,
-    "timeMonth": 1740,
-    "timeYear": 1902,
+    "time": 1897,
+    "timeDay": 1576,
+    "timeWeek": 1813,
+    "timeMonth": 1714,
+    "timeYear": 1897,
     "dailyMinutesDown": {
       "2026-09-07": 223
     }
@@ -43,21 +43,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/elib.must.ac.ug.ico",
     "slug": "library",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
-    "time": 2768,
-    "timeDay": 1151,
-    "timeWeek": 1301,
-    "timeMonth": 1873,
-    "timeYear": 2768,
+    "uptime": "97.94%",
+    "uptimeDay": "10.26%",
+    "uptimeWeek": "87.18%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.94%",
+    "time": 2735,
+    "timeDay": 777,
+    "timeWeek": 1220,
+    "timeMonth": 1842,
+    "timeYear": 2735,
     "dailyMinutesDown": {
       "2026-08-16": 18,
       "2026-08-19": 75,
       "2026-08-21": 211,
-      "2026-09-25": 0
+      "2026-09-26": 177,
+      "2026-09-25": 1115
     }
   },
   {
@@ -71,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3396,
-    "timeDay": 2431,
-    "timeWeek": 2375,
-    "timeMonth": 3021,
-    "timeYear": 3396,
+    "time": 3384,
+    "timeDay": 2751,
+    "timeWeek": 2413,
+    "timeMonth": 2848,
+    "timeYear": 3384,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1820,
-    "timeDay": 1512,
-    "timeWeek": 1562,
-    "timeMonth": 1551,
-    "timeYear": 1820,
+    "time": 1817,
+    "timeDay": 1653,
+    "timeWeek": 1513,
+    "timeMonth": 1542,
+    "timeYear": 1817,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 899,
-    "timeWeek": 638,
-    "timeMonth": 587,
-    "timeYear": 588,
+    "time": 590,
+    "timeDay": 688,
+    "timeWeek": 619,
+    "timeMonth": 588,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   }
 ]
