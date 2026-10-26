@@ -43,17 +43,17 @@
     "url": "https://elib.must.ac.ug",
     "icon": "https://icons.duckduckgo.com/ip3/elib.must.ac.ug.ico",
     "slug": "library",
-    "status": "down",
-    "uptime": "95.35%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "95.17%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
     "uptimeMonth": "92.94%",
-    "uptimeYear": "95.35%",
-    "time": 2994,
-    "timeDay": 6786,
-    "timeWeek": 5087,
-    "timeMonth": 3496,
-    "timeYear": 2994,
+    "uptimeYear": "95.17%",
+    "time": 3030,
+    "timeDay": 6520,
+    "timeWeek": 5233,
+    "timeMonth": 3582,
+    "timeYear": 3030,
     "dailyMinutesDown": {
       "2026-08-16": 18,
       "2026-08-19": 75,
@@ -63,7 +63,7 @@
       "2026-09-26": 1440,
       "2026-09-25": 1115,
       "2026-10-18": 517,
-      "2026-10-26": 0
+      "2026-10-26": 239
     }
   },
   {
